@@ -1,2 +1,2 @@
-# GTI_2A
+# GUILHERME ASSIS PEREIRA RA 1902424
 Repositório de aula.
